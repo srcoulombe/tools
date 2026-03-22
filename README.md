@@ -5,3 +5,5 @@
 - https://github.com/jackyzha0/quartz
 - https://mavo.io/demos/
 - https://activeadmin.info/
+- https://oorja.io
+- https://codeberg.org/mark22k/crazytrace
