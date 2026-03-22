@@ -7,3 +7,5 @@
 - https://activeadmin.info/
 - https://oorja.io
 - https://codeberg.org/mark22k/crazytrace
+- https://petermm.github.io/popcorn_live_view/req-demo
+- https://github.com/openobserve/openobserve
