@@ -16,3 +16,5 @@
 - https://medium.com/nebo-15/introducing-sage-a-sagas-pattern-implementation-in-elixir-3ad499f236f6
 - https://elixirforum.com/t/canonical-tailwind-tailwind-class-canonicalization-via-mix-format/74726/7
 - https://github.com/leandrocp/mdex_mermaid?tab=readme-ov-file
+- https://github.com/expothecary/ical
+- https://github.com/wojtekmach/calendar_recurrence
