@@ -19,3 +19,5 @@
 - https://github.com/expothecary/ical
 - https://github.com/wojtekmach/calendar_recurrence
 - https://github.com/liveshowy/webauthn_components
+- https://web.archive.org/web/20260412210054/https://codemyspec.com/blog/elixir-embedding-pipeline
+- https://github.com/kreuzberg-dev/kreuzberg
