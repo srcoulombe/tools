@@ -18,3 +18,4 @@
 - https://github.com/leandrocp/mdex_mermaid?tab=readme-ov-file
 - https://github.com/expothecary/ical
 - https://github.com/wojtekmach/calendar_recurrence
+- https://github.com/liveshowy/webauthn_components
