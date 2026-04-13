@@ -23,3 +23,4 @@
 - https://github.com/kreuzberg-dev/kreuzberg
 - https://github.com/am-kantox/finitomata
 - https://github.com/tmbb/mandarin
+- https://perfetto.dev/
