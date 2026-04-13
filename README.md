@@ -22,3 +22,4 @@
 - https://web.archive.org/web/20260412210054/https://codemyspec.com/blog/elixir-embedding-pipeline
 - https://github.com/kreuzberg-dev/kreuzberg
 - https://github.com/am-kantox/finitomata
+- https://github.com/tmbb/mandarin
